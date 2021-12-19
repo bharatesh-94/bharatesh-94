@@ -8,7 +8,7 @@ If you found value in something I have created, please feel free to give me a sh
 My Digital Footprints 🌱
 - ulrShortner - An back-end code for an URL shortner service website.
 - blogsAndAuthor - An back-end code to a Blog Managment website.
-- Open-to-Internship - A website of a college for recruiters to list the students who applied/available for intership.
+- Open-to-Internship - A website of a college for recruiters to list the students who applied/available for internship.
 
 ++ building more & in pipeline, watch this space for more 🤩 ++
 
