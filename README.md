@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bharatesh</h1>
-<h3 align="center">A passionate software developer trainee from India, looking to solve real world problems. I am a fresher looking for opportunity in the field of Tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatesh-94&label=Profile%20views&color=0e75b6&style=flat" alt="bharatesh-94" /> </p>
 
